@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource includes information on water vapor distribution, equations
   and definitions, annual balance in latitude belts, and the balance.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/fc6ea58dddbc15616cd81e79076edf7b_section4.pdf
+file: /media/courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/fc6ea58dddbc15616cd81e79076edf7b_section4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: section4.pdf
 uid: fc6ea58d-ddbc-1561-6cd8-1e79076edf7b

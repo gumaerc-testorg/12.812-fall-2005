@@ -4,8 +4,13 @@ description: This resource includes information on observed temperature field, e
   and definitions, boundary conditions, heat budget equation for latitudinal belts,
   radiation budget, mean annual meridional transports in the atmosphere, oceanic heat
   transport, seasonal changes in atmospheric transports, vertical fluxes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/001fb84d7bb53ddda43325d7b5f09587_section5.pdf
+file: /media/courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/001fb84d7bb53ddda43325d7b5f09587_section5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: section5.pdf
 uid: 001fb84d-7bb5-3ddd-a433-25d7b5f09587
