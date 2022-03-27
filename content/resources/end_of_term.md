@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 39ac5e30-9126-6c42-2b0c-95c49e1d263d
 resourcetype: Document
 title: end_of_term.pdf
 uid: e5ee2a51-2a36-7b7d-c343-7588ab07d17f
