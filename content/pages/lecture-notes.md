@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The lecture notes section includes the lecture files related with the
+  file.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +27,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF]({{< baseurl >}}/resources/section1))
+Introduction ({{% resource_link d4d0725d-fe53-012d-9104-8bd16c59416f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +36,7 @@ Introduction ([PDF]({{< baseurl >}}/resources/section1))
 1-2
 {{< tdclose >}}
 {{< tdopen >}}
-Analysis Techniques ([PDF]({{< baseurl >}}/resources/section2))
+Analysis Techniques ({{% resource_link 84a67079-4d72-4c51-86e7-6fe29cd6d341 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ Analysis Techniques ([PDF]({{< baseurl >}}/resources/section2))
 3-4
 {{< tdclose >}}
 {{< tdopen >}}
-The Angular Momentum and Kinetic Energy Budgets ([PDF - 2.0 MB]({{< baseurl >}}/resources/section3))
+The Angular Momentum and Kinetic Energy Budgets ({{% resource_link d2d8abba-ec13-4a4c-c1ad-dcc0f3d838d3 "PDF - 2.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +54,7 @@ The Angular Momentum and Kinetic Energy Budgets ([PDF - 2.0 MB]({{< baseurl >}}/
 5
 {{< tdclose >}}
 {{< tdopen >}}
-The Water Vapor Budget ([PDF]({{< baseurl >}}/resources/section4))
+The Water Vapor Budget ({{% resource_link fc6ea58d-ddbc-1561-6cd8-1e79076edf7b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +63,7 @@ The Water Vapor Budget ([PDF]({{< baseurl >}}/resources/section4))
 6-8
 {{< tdclose >}}
 {{< tdopen >}}
-The Heat Budget ([PDF - 1.7 MB]({{< baseurl >}}/resources/section5))
+The Heat Budget ({{% resource_link 001fb84d-7bb5-3ddd-a433-25d7b5f09587 "PDF - 1.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +72,7 @@ The Heat Budget ([PDF - 1.7 MB]({{< baseurl >}}/resources/section5))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Spectral Analysis ([PDF - 1.3 MB]({{< baseurl >}}/resources/section6))
+Spectral Analysis ({{% resource_link 753f834f-c42b-d23b-e35a-9c8f9c5f41ca "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +81,7 @@ Spectral Analysis ([PDF - 1.3 MB]({{< baseurl >}}/resources/section6))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Forcing of the Zonal Mean Circulations ([PDF - 2.4 MB]({{< baseurl >}}/resources/section7))
+Forcing of the Zonal Mean Circulations ({{% resource_link b865c372-8bef-f0a3-b9bc-9e4706a6c23c "PDF - 2.4 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +90,7 @@ Forcing of the Zonal Mean Circulations ([PDF - 2.4 MB]({{< baseurl >}}/resources
 11
 {{< tdclose >}}
 {{< tdopen >}}
-The Energy Cycle ([PDF - 3.1 MB]({{< baseurl >}}/resources/section8))
+The Energy Cycle ({{% resource_link 80399082-15d8-049c-2fe3-295d7a29b100 "PDF - 3.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +99,7 @@ The Energy Cycle ([PDF - 3.1 MB]({{< baseurl >}}/resources/section8))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Numerical Models ([PDF]({{< baseurl >}}/resources/section9))
+Numerical Models ({{% resource_link 23c76aaf-124a-5222-d4c9-66902946b00b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

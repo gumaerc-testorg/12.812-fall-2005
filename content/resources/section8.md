@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about energy forms, potential energy and balance
   equations for kinetic energy.
-file: /media/courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/8039908215d8049c2fe3295d7a29b100_section8.pdf
+file: /courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/8039908215d8049c2fe3295d7a29b100_section8.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: section8.pdf
 uid: 80399082-15d8-049c-2fe3-295d7a29b100
 ---
+This resource discusses about energy forms, potential energy and balance equations for kinetic energy.
+
