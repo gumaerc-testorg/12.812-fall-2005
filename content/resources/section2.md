@@ -7,6 +7,7 @@ file: /courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/84a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: section2.pdf
 uid: 84a67079-4d72-4c51-86e7-6fe29cd6d341
 ---
 This resource includes information on pressure coordinates, statistics of the meteorological fields, analysis techniques I: Rawinsonde-based, errors due to sparseness, analysis techniques II: data assimilation, and importance of balancing.
-

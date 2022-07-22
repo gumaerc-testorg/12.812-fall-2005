@@ -5,6 +5,7 @@ file: /courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/688
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: final_2003.pdf
 uid: 6885e366-a6a0-0b86-dfd0-f0a4e6110875
 ---
 Final exam problems.
-

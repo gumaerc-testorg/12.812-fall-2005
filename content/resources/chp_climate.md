@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_climate.jpg
 uid: ffdb1277-05bd-30d9-3877-c505a3a9a684
 ---
 Global climate system. (Image courtesy of Technology Review, MIT.)
-

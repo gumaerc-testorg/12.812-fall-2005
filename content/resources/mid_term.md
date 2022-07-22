@@ -6,6 +6,7 @@ file: /courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/cae
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: mid_term.pdf
 uid: cae058c8-ca40-55c5-c8e6-57aaa2bd20c5
 ---
 This resource includes questions on NOAA compilation, balance of zonal kinetic, and ECMWF analyses.
-

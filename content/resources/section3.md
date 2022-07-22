@@ -7,6 +7,7 @@ file: /courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/d2d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: section3.pdf
 uid: d2d8abba-ec13-4a4c-c1ad-dcc0f3d838d3
 ---
 This resource includes information on zonal mean general circulation, conservation equations for angular momentum, conservation equation for relative angular momentum, and momentum balance in Quasi-geostrophic models.
-
