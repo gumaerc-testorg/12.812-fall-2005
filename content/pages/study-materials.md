@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The study material section include references organized by lecture topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 3dc68b87-f4be-0596-bebe-9507f547a3bd
 ---
