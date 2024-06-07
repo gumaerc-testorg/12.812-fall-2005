@@ -5,6 +5,7 @@ description: This resource includes information on observed temperature field, e
   radiation budget, mean annual meridional transports in the atmosphere, oceanic heat
   transport, seasonal changes in atmospheric transports, vertical fluxes.
 file: /courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/001fb84d7bb53ddda43325d7b5f09587_section5.pdf
+file_size: 1716900
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
