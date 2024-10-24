@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final exam problems.
-file: /courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/6c74b6cf17f5f59782a555dad07911e1_final_2004.pdf
+file: /ol-ocw-studio-app/courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/6c74b6cf17f5f59782a555dad07911e1_final_2004.pdf
 file_size: 49000
 file_type: application/pdf
 learning_resource_types:
