@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about Forcing of [u], [?], transformed eulerian
   mean equations, observations and generalization to include eddy forcing of condensation.
-file: /ol-ocw-studio-app/courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/b865c3728beff0a3b9bc9e4706a6c23c_section7.pdf
+file: /courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/b865c3728beff0a3b9bc9e4706a6c23c_section7.pdf
 file_size: 2535736
 file_type: application/pdf
 learning_resource_types:
