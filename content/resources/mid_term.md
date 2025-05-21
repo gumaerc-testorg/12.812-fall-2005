@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes questions on NOAA compilation, balance of zonal
   kinetic, and ECMWF analyses.
-file: /ol-ocw-studio-app/courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/cae058c8ca4055c5c8e657aaa2bd20c5_mid_term.pdf
+file: /courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/cae058c8ca4055c5c8e657aaa2bd20c5_mid_term.pdf
 file_size: 55420
 file_type: application/pdf
 learning_resource_types:
