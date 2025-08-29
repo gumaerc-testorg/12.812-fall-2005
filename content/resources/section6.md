@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about Fourier analysis, spectra of zonal mean
   quadratic terms and spectra of Eddy sensible heat flux.
-file: /courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/753f834fc42bd23be35a9c8f9c5f41ca_section6.pdf
+file: /ol-ocw-studio-app/courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/753f834fc42bd23be35a9c8f9c5f41ca_section6.pdf
 file_size: 1359433
 file_type: application/pdf
 learning_resource_types:

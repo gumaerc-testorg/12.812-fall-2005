@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource includes information on pressure coordinates, statistics
   of the meteorological fields, analysis techniques I: Rawinsonde-based, errors due
   to sparseness, analysis techniques II: data assimilation, and importance of balancing.'
-file: /courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/84a670794d724c5186e76fe29cd6d341_section2.pdf
+file: /ol-ocw-studio-app/courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/84a670794d724c5186e76fe29cd6d341_section2.pdf
 file_size: 939530
 file_type: application/pdf
 learning_resource_types:
