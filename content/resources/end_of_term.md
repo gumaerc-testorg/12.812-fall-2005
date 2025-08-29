@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes questions on e zonal mean annual, global mean
   annual mean planetary albedo, zonal wave numbers, and eddy momentum transport.
-file: /courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/e5ee2a512a367b7dc3437588ab07d17f_end_of_term.pdf
+file: /ol-ocw-studio-app/courses/12-812-general-circulation-of-the-earths-atmosphere-fall-2005/e5ee2a512a367b7dc3437588ab07d17f_end_of_term.pdf
 file_size: 39828
 file_type: application/pdf
 learning_resource_types:
